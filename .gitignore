@@ -1,0 +1,18 @@
+# Windows 缩略图缓存
+Thumbs.db
+desktop.ini
+
+# 打包产物
+*.zip
+*.rar
+
+# 游戏运行时目录（防止误提交）
+WTF/
+Logs/
+Errors/
+Cache/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
