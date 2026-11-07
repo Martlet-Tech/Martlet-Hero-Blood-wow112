@@ -6,7 +6,7 @@
 --    实测：zone=28 大陆=2 区域名=西瘟疫之地 GetMapInfo=WesternPlaguelands
 --          但 WorldMapFrame:IsVisible() 返回 nil，且 GetMapInfo() 会返回上一个区域的旧值
 --          （判定=EPL 却显示西瘟疫），导致：
---            1) 可见性判断失败 -> 每帧 HideAll -> 图钉全部隐藏（共 91、显示 0）
+--            1) 可见性判断失败 -> 每帧 HideAll -> 图钉全部隐藏（有 N 个却显示 0）
 --            2) 区域判断用 GetMapInfo -> 拿到旧区域 -> 画错地图的点
 --
 --    改法（完全照抄 pfQuest / ModernMapMarkers 在本客户端验证过的写法）：
