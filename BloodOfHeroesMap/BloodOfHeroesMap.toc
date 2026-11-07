@@ -3,7 +3,7 @@
 ## Notes: 在西瘟疫之地 / 东瘟疫之地的世界地图上标出英雄之血刷新点。命令：/bh 开关
 ## Notes-zhCN: 在西瘟疫之地 / 东瘟疫之地的世界地图上标出英雄之血刷新点。命令：/bh 开关
 ## Author: 改造 by WorkBuddy（原 bloodOfHeros 1.2 by Demonass）
-## Version: 5.0-turtle
+## Version: 6.0-turtle
 
 coords.lua
 BloodOfHeroesMap.lua
