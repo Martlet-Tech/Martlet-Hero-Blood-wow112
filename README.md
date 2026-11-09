@@ -46,6 +46,8 @@
 
 计时记录存在 `WTF\Account\<账号>\SavedVariables\BloodOfHeroesMap.lua` 里，跨登录、跨重启都保留。
 
+> 使用问题欢迎到 [Discussions 的 Q&A 区](https://github.com/Martlet-Tech/Martlet-Hero-Blood-wow112/discussions/categories/q-a) 提问，已有的问题与解答也沉淀在那里。
+
 ### 图钉下的倒计时怎么读
 
 | 显示 | 含义 |
